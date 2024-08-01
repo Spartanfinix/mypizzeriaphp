@@ -1,4 +1,4 @@
-# Apache Rewrite Rules
+# Apache Rewrite Reglas
  <IfModule mod_rewrite.c>
 RedirectMatch 404 ^/.+\.(ini)$
   Options +FollowSymLinks
