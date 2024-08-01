@@ -10,7 +10,7 @@
 
 <style>
     button,
-    [type="button"],
+    [type="buttom"],
     [type="reset"],
     [type="submit"] {
         -webkit-appearance: none;
