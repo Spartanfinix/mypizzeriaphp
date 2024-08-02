@@ -1,6 +1,6 @@
-# MyPizzeriaMinimalista 🍕
+# MyPizzeriaPHP 🍕
  
-**MyPizzeriaPHP** es un administrador de pedidos para restaurantes "más tecnológicos".
+**MyPizzeriaMinimalista** es un administrador de pedidos para restaurantes "más tecnológicos".
 MyPizzeriaPHP se basa en *PHP* como lenguaje de programación y *SQL (MySQL)* para la gestión de todo el restaurante.
 
 ## Requisitos
